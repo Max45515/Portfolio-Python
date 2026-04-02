@@ -13,4 +13,4 @@
 # 02.04.2026
 написал своего бота на оснвое библиотек telebot sqlite3
 
-название его название: Telegram bot Easy Todo List
+его название: Telegram bot Easy Todo List
