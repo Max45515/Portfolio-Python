@@ -1,3 +1,6 @@
+# 02.04.2026 создал телеграм бота на основе библиотек ниже (коментарии добавлены при помощи ИИ) 
+# 04.02.2026 created a telegram bot based on the libraries below (comments added using AI)
+
 import telebot
 import sqlite3
 
